@@ -1,0 +1,4 @@
+打印("Hello\nWorld")
+打印("Tab\tTest")
+打印("Quote\"Test")
+打印("Backslash\\Test")
